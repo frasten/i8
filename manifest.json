@@ -20,5 +20,10 @@
   "host_permissions": [
     "https://icons8.com/*"
   ],
-  "permissions": ["scripting", "notifications"]
+  "permissions": ["scripting", "notifications"],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "i8@polpoinodroidi.com"
+    }
+  }
 }
